@@ -42,8 +42,8 @@ def download_imagens_threaded(urls, folder):
 if __name__ == "__main__":
     image_urls = [
         "https://embrapii.org.br/wp-content/images/2018/11/ifpb_2000x1200_baixa_resolucao-480x480.jpg",
-        "https://a.cdn-hotels.com/gdcs/production164/d1916/76adf5d6-a867-49c6-872d-524b3ca73da5.jpg?impolicy=fcrop&w=1600&h=1066&q=medium",
-        "https://img.olhardigital.com.br/wp-content/uploads/2023/01/google_fachada.jpg",
+        # "https://a.cdn-hotels.com/gdcs/production164/d1916/76adf5d6-a867-49c6-872d-524b3ca73da5.jpg?impolicy=fcrop&w=1600&h=1066&q=medium",
+        # "https://img.olhardigital.com.br/wp-content/uploads/2023/01/google_fachada.jpg",
         # ... adicione mais URLs conforme necessário
     ]
 
